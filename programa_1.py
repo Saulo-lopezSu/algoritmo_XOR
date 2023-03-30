@@ -138,5 +138,5 @@ for i in range(0, len(resultado_xor), 9):
     resultado_final += chr(int(bloque_xor, 2))
 
 print("Resultado final en ASCII: ", resultado_final)
+
 #+++++++++++++++++++++++++++++++++++++++++++++++++++++
-#-----Versión_5: acepta mayusculas y minusculas-------
